@@ -2,7 +2,7 @@
 Reading notes for code 102d18
 
 ## About Me
-I am ryan. i am a student for code 102d18
+I name is Ryan. I am a student for code 102d18
 
 ## Growth Mindset
 What growth mindset means to me is
