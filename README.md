@@ -10,5 +10,6 @@ What growth mindset means to me is
 ## 3 Reminders to Keep in Growth Mindset
 - 1
 
-![riverphoto](
+! [riverphoto](riverbro.jpg)
+
 - 3
