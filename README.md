@@ -9,9 +9,6 @@ What growth mindset means to me is
 
 ## 3 Reminders to Keep in Growth Mindset
 - 1 As Tech N9ne says:
-> "Free your mind, and remember
-Winners are not people who never fail
-But people who never quit"
-[relax](riverbro.jpg)
+> "[Free](riverbro.jpg) your mind and remember, winners are not people who never fail, but people who never quit"
 - 2
 - 3
