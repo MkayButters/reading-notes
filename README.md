@@ -9,7 +9,7 @@ What growth mindset means to me is constantly striving for excellence. Thinking 
 
 ## 3 Reminders to Keep in Growth Mindset
 - 1 
-- 2 “Discipline equals freedom.” :mechanical_arm:
+- 2 “Discipline equals freedom.” :muscle:
 ― Jocko Willink, Extreme Ownership: How U.S. Navy SEALs Lead and Win
 - 3 As Tech N9ne says:
 > "[Free](riverbro.jpg) your mind and remember, winners are not people who never fail, but people who never quit"
