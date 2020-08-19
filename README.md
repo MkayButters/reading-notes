@@ -18,7 +18,7 @@ What growth mindset means to me is constantly striving for excellence. Thinking 
 - [Learning Markdown](learning_markdown.md)
 - [Coders Computer](coder_computer.md)
 - [Git](git.md)
-- Class
+- [Structure Webpage w/ HTML](webpage.md)
 - Class
 - Class
 - Class
