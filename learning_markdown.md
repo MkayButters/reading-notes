@@ -1,15 +1,18 @@
-What did i learn today?
-examples of headings
-# heading 1
+# What did i learn today?
+
 ## heading 2 
+
 ### heading 3
+#### heading 4
+
+##### heading 5
+
+###### heading 6
  
 
-The are 2 ways emphasize *italic*
+- I can  emphasize *italic*, __bold__, and ___both___
 
-There are 2 ways to emphasize bold __bold__
-
-you can insert images using this
+Inserting images also
 
 [Imageofmonkey](https://images.unsplash.com/photo-1525520664134-5db7b97f8f26?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
 
@@ -18,6 +21,10 @@ you can insert images using this
 - [x] making task lists
 - [ ] not making task lists
 
-  ~~be lazy~~ 
+Making | Tables | Messy
+--- | --- | ---
+`This` | `IS` | ` nice `
+Next weeks | Lottery Numbers | Below
+  ~~4-8-19-27-34-Powerball 10~~ 
 
 [<=BACK](README.md)
