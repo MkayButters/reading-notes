@@ -17,11 +17,11 @@ What growth mindset means to me is constantly striving for excellence. Thinking 
 ###### Table of Contents
 - [Learning Markdown](learning_markdown.md)
 - [Coders Computer](coder_computer.md)
-- [Git](git.md)
+- [Revisions and the Cloud](git.md)
 - [Structure Webpage w/ HTML](webpage.md)
-- Class
-- Class
-- Class
+- [Design web pages with CSS](CSS.md)
+- [Dynamic web pages with JavaScript](webpages_JS.md)
+- [Computer Architecture and Logic](a_and_l.md)
 - Class
 - Class
 - Class
