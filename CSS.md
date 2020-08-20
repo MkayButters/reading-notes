@@ -8,7 +8,7 @@ CSS Rules
 
  __Selector__ |  _Declaration_ |    | 
 | --- | --- | --- |
-| __Indicates what section the rule applys to__ |  _How the section will appear_ |   | 
+__Indicates what section the rule applys to__ |  _How the section will appear_ |   | 
   |  |  _Property_ | _Value_ |
   |   | _Indicates the ascpect of the decleration you want to change_ | _Indicates specific attributes of the value_ |
 |  | _color_    | _:blue_ |
